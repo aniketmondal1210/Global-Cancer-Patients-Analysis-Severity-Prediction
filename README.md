@@ -101,31 +101,6 @@ For every major analysis:
 
 ---
 
-## 📂 Project Structure
-
-```text
-Cancer-EDA/
-│
-├── data/
-│   └── cancer_dataset.csv
-│
-├── notebooks/
-│   └── cancer_eda.ipynb
-│
-├── visuals/
-│   ├── severity_analysis.png
-│   ├── treatment_cost_analysis.png
-│   └── survival_analysis.png
-│
-├── reports/
-│   └── findings_report.pdf
-│
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## 📈 Expected Insights
 
 The project aims to uncover:
@@ -145,7 +120,7 @@ The project aims to uncover:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cancer-eda.git
+git clone https://github.com/aniketmondal1210/cancer-eda.git
 cd cancer-eda
 ```
 
